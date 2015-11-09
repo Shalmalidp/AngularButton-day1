@@ -1,7 +1,6 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
-
+> Please visit my link to check this out : outstanding-metal.surge.sh
 
 ## Usage
 
