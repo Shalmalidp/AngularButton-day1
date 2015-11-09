@@ -1,6 +1,6 @@
 ## Welcome to My Project
 
-> Please visit my link to check this out : outstanding-metal.surge.sh
+> Please visit my link to check this out : http://outstanding-metal.surge.sh
 
 ## Usage
 
