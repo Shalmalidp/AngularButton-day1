@@ -1,6 +1,8 @@
 ## Welcome to My Project
 
 > Please visit my link to check this out : http://outstanding-metal.surge.sh
+>Day1 of Angular 
+>created a button which displays a counter of likes and like using ternary .
 
 ## Usage
 
