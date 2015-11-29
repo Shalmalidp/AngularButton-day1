@@ -1,6 +1,9 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+###Day1 of Angular 
+
+###created a button which displays a counter of likes or like using ternary .
+> Please visit my link to check this out : http://outstanding-metal.surge.sh
 
 
 ## Usage
